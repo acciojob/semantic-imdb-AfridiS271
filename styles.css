@@ -29,3 +29,7 @@ body{
     font-size: 20px;
     background-color: rgb(131, 228, 136);
 }
+
+#nav-actor{
+    text-align: center;
+}
