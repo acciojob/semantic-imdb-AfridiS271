@@ -24,12 +24,12 @@ body{
     color: blue;
 }
 
-#producer{
+footer{
     color:rgb(0, 0, 0);
     font-size: 20px;
     background-color: rgb(131, 228, 136);
 }
 
-#nav-actor{
+.footer{
     text-align: center;
 }
